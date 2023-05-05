@@ -151,12 +151,12 @@ margin-right: 3rem;
 }
 
 .grafico--camisas{
-    background-image: url(../img/grafico1.jpg);
+    background-image: url(../assets/img/grafico1.jpg);
     grid-row: 2 / 3;
 }
 
 .grafico--node{
-    background-image: url(../img/grafico2.jpg);    
+    background-image: url(../assets/img/grafico2.jpg);    
     grid-row: 8 / 9;
 }
 
