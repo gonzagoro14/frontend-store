@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 :root{
     --primario: #9C27B0;
     --primario-oscuro: #89119D;
