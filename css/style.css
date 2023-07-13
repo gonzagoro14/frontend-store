@@ -235,7 +235,7 @@ margin-right: 3rem;
 .formulario__campo{
     border: 1rem solid var(--primario-oscuro);
     background-color: transparent;
-    color: var(--blanco);
+    color: var(--negro);
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
     padding: 1rem;
